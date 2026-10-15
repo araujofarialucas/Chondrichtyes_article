@@ -8,7 +8,6 @@ library(phytools)
 library(sf)
 library(randtip)
 library(picante)
-ssssss##dd
 
 # Load Files
 
